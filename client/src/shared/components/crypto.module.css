@@ -1,0 +1,33 @@
+#cryptoid1{
+    width: 300px;
+    font-size: 13px;
+}
+#groups li img
+{
+    width: 30px;
+    height: 30px;
+}
+#cryptoid
+{
+    font-size: 21px;
+    width: 300px;
+}
+#cryptoid1
+{
+    font-weight: bold;
+    font-size: 21px;
+}
+#star
+{
+    color: black;
+    font-size: 22px;
+}
+#coins
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 300px;
+    font-size: 13px;
+}
